@@ -23,7 +23,7 @@
 
 [![Spotify](https://spotifyreadme-hrge.vercel.app/api/spotify/?border_color=ffffff)](https://open.spotify.com/user/57pr8sl96swjht7fpdeu6hcxd)
 
-<br/>
+<!-- <br/>
 <br/>
 
 ---
@@ -36,5 +36,5 @@
 
 <div align="left">
   <img src="https://streak-stats.demolab.com/?user=OskarinoLoL&theme=github-dark-blue&short_numbers=true&date_format=j%20M%5B%20Y%5D" height="220" alt="streak graph"/>
-</div>
+</div> -->
 
